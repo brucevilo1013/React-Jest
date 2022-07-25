@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header t1 1`] = `
+<div>
+  2019-08-26T11:55:03.696Z
+</div>
+`;
